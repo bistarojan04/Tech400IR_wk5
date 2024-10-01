@@ -1,0 +1,30 @@
+Query: The city beneath the sea was a marvel of human achievement, but it held dark secrets within.
+Document: query.txt, Score: 0.0234
+
+Query: On the edge of the universe, explorers discovered a doorway to another reality.
+Document: query.txt, Score: 0.7616
+
+Query: A forgotten map found in an old library led them on a quest for an artifact of great power.
+Document: query.txt, Score: 0.0000
+
+Query: A child, lost in the woods, found a hidden path that led to a world no one had ever seen. The festival of colors brought joy to the people, even as the storm clouds gathered overhead.
+Document: query.txt, Score: 0.0000
+
+Query: In a small village at the foot of the mountains, legends spoke of a hidden treasure. A dance under the stars turned into a night no one would ever forget, full of magic and wonder.
+Document: query.txt, Score: 0.0006
+
+Query: The explorers set sail on a vast ocean, chasing the horizon as it melted into the sky.
+Document: query.txt, Score: 0.0027
+
+Query: The city beneath the sea was a marvel of human achievement, but it held dark secrets within. In the distant future, humans had colonized the stars, but they were not alone in the universe.
+Document: query.txt, Score: 0.0000
+
+Query: A scientist working late into the night discovered something that would change the course of history. A dance under the stars turned into a night no one would ever forget, full of magic and wonder.
+Document: query.txt, Score: 0.0015
+
+Query: On the edge of the universe, explorers discovered a doorway to another reality. The invention of the century was revealed at the expo, but no one knew how it truly worked.
+Document: query.txt, Score: 0.0729
+
+Query: A scientist working late into the night discovered something that would change the course of history. The invention of the century was revealed at the expo, but no one knew how it truly worked.
+Document: query.txt, Score: 0.0094
+
